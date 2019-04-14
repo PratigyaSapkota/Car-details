@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarDetail</string>
+    <string name="make">Make:</string>
+    <string name="year">Year:</string>
+    <string name="color">Color:</string>
+    <string name="price">Purchased price(pound):</string>
+    <string name="engine">Engine size(litre):</string>
+
+    <string name="create">Create Car</string>
+    <string name="diesel">Create Diesel</string>
+</resources>
+
+
+
+
